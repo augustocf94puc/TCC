@@ -1,17 +1,15 @@
-# Nome do projeto
+# A importancia da manutenção e refatoração de software
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+O objetivo do projeto ainda não foi definido.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Augusto Coutinho de Freitas
 
 ## Professores responsáveis
 
-* Nome do orientador de conteúdo (TCCI)
-* Nome do orientador de acadêmico (TCCI)
-* Nome do orientador de TCC II
+* Jose Laerte Pires Xavier Junior
+* Marco Rodrigo Costa
 
 ## Instruções de Replicação/Reprodução
 
