@@ -31,4 +31,4 @@ Com isso fica claro que a refatoração é uma tecnologia chave para manter um c
     
 *   _"Consider changing from code-driven to model-driven refactoring, to generate and maintain the underlying design models."_
 
-* _"Continuous improvement is better than delayed perfectionism."_
+*   _"Continuous improvement is better than delayed perfectionism."_
