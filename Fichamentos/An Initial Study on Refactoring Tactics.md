@@ -13,16 +13,16 @@ Já a segunda pratica é chamada de “root canal” ou canal radicular, onde os
 
 ## 2. Fichamento Bibliográfico 
 
-Refatoração de software é reestruturar a estrutura interna de aplicativos de software orientados a objetos para melhorar sua qualidade, especialmente sua manutenibilidade, extensibilidade e reutilização.
+* _Refatoração de software_ é o processo de reestruturar a estrutura interna de aplicativos de software orientados a objetos para melhorar sua qualidade, especialmente sua manutenibilidade, extensibilidade e reutilização.
 
-Fio dental ("floss") é a refatoração em pequenos passos no estilo XP.
+* _Fio dental ("floss")_ é a refatoração em pequenos passos no estilo XP.
 
-Canal radicular (root canal) é reservar um período prolongado especialmente para refatoração.
+* _Canal radicular (root canal)_ é reservar um período prolongado especialmente para refatoração.
 
 ## 3. Fichamento de Citações 
 
-"Because XP advocates short develop iterations, floss refactorings are usually heavily interspersed with other routine development activities, e.g., adding new functionalities or fixing bugs."
+* _"Because XP advocates short develop iterations, floss refactorings are usually heavily interspersed with other routine development activities, e.g., adding new functionalities or fixing bugs."_
 
-"However, cases of root canal refactoring from industry are reported. For example, Microsoft usually reserves about 20% of development efforts on thorough refactoring, which would begins at the release of _a_ software system, and ends at the beginning of development of the next iteration (development of the next version) [23]."
+* _"However, cases of root canal refactoring from industry are reported. For example, Microsoft usually reserves about 20% of development efforts on thorough refactoring, which would begins at the release of a software system, and ends at the beginning of development of the next iteration (development of the next version) [23]."_
 
-"Software refactoring is to restructure the internal structure of object-oriented software applications to improve their quality, especially their maintainability, extensibility and reusability"
+* _"Software refactoring is to restructure the internal structure of object-oriented software applications to improve their quality, especially their maintainability, extensibility and reusability"_
