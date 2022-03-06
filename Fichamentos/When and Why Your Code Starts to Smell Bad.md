@@ -23,6 +23,8 @@ Esse maus cheiros podem  permanecer em um sistema de software por longos períod
 
 * _Spaghetti Code_ é uma classe sem estrutura que declara métodos longos sem parâmetros.
 
+* _Bugs_ são erros no codigo.
+
 ## 3. Fichamento de Citações 
 
 * _"Most of times code artifacts are affected by bad smells since their creation. This result contradicts the common wisdom that bad smells are generally due to a negative effect of software evolution."_
